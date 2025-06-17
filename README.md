@@ -1,4 +1,4 @@
-__Personal Repository__\\
+__Personal Repository__\
 __Purpose__
 - A space for me to log all of my personal projects, presentations, and achievements, as well as group projects that I was a part of.
 __Current Works__
