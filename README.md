@@ -9,5 +9,6 @@ A space for me to log all of my personal projects, presentations, and achievemen
 - Variational Inference Presentation  
 - Category Theory Presentation  
 - CWRU Quants Research Paper Spring 2025  
-- CTU Report on Applied Physics in Semiconductor Materials Engineering *(soon...)*  
+- CTU Report on Applied Physics in Semiconductor Materials Engineering *(soon...)*
+- ODE/PDE solvers personal project *(currently working on...)*
 
