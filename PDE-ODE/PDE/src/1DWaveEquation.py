@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
 # Parameters
-L = 1.0         # Length of string
+L = 2.0         # Length of string
 T = 2.0         # Total time
 c = 1.0         # Wave speed
 nx = 100        # Number of spatial points
