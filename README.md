@@ -10,6 +10,6 @@ A space for me to log all of my personal projects, presentations, and achievemen
 - Category Theory Presentation  
 - CWRU Quants Research Paper Spring 2025
 - Bayesian Computing scripts as example of Variational Inference and Markov Chain Monte Carlo
-- CTU Report on Applied Physics in Semiconductor Materials Engineering *(soon...)*
+- CTU Report on Applied Physics in Semiconductor Materials Engineering
 - ODE/PDE solvers personal project *(currently working on...)*
 
